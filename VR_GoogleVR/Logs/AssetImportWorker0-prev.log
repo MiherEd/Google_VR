@@ -1,0 +1,427 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.16f1 (049d6eca3c44) revision 302446'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19043.1415; Version 2009; 64bit' Language: 'zh' Physical Memory: 32608 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.16f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/user/Desktop/Unity_Lion_VR_GoogleVR_20211103-main/VR_GoogleVR_20211103
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54261
+Successfully changed project path to: C:/Users/user/Desktop/Unity_Lion_VR_GoogleVR_20211103-main/VR_GoogleVR_20211103
+C:/Users/user/Desktop/Unity_Lion_VR_GoogleVR_20211103-main/VR_GoogleVR_20211103
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 29.14 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.16f1 (049d6eca3c44)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/user/Desktop/Unity_Lion_VR_GoogleVR_20211103-main/VR_GoogleVR_20211103/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 630 (ID=0x9bc5)
+    Vendor:   
+    VRAM:     16304 MB
+    Driver:   27.20.100.8681
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56060
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001337 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 26.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.712 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1712ms)
+		BeginReloadAssembly (48ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (378ms)
+			LoadAssemblies (46ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (133ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (31ms)
+			SetupLoadedEditorAssemblies (149ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (27ms)
+				BeforeProcessingInitializeOnLoad (16ms)
+				ProcessInitializeOnLoadAttributes (73ms)
+				ProcessInitializeOnLoadMethodAttributes (30ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002573 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.028 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1030ms)
+		BeginReloadAssembly (132ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (20ms)
+		EndReloadAssembly (843ms)
+			LoadAssemblies (74ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (244ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (46ms)
+			SetupLoadedEditorAssemblies (386ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (79ms)
+				ProcessInitializeOnLoadAttributes (292ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1489 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.2 MB.
+System memory in use after: 68.3 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1923.
+Total: 2.559500 ms (FindLiveObjects: 0.206400 ms CreateObjectMapping: 0.072200 ms MarkObjects: 2.222800 ms  DeleteObjects: 0.057200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/XR
+  artifactKey: Guid(654580dce25968244b7717603792ca9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XR using Guid(654580dce25968244b7717603792ca9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b9db25e1ad4695b63b72b4c1738c555') in 0.009512 seconds 
+  Import took 0.011537 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/StylizedHandPaintedDungeon(Free)
+  artifactKey: Guid(a4c406401c6e1ae4a93fdad7e46e6381) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StylizedHandPaintedDungeon(Free) using Guid(a4c406401c6e1ae4a93fdad7e46e6381) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ba6134c4e81f5935e05ac7f137f8e8e') in 0.007741 seconds 
+  Import took 0.009680 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.936085 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3dbd388bb14c61e6aaea27197a16bbd') in 0.014915 seconds 
+  Import took 0.018315 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.334119 seconds.
+  path: Assets/Samples/Google Cardboard XR Plugin for Unity
+  artifactKey: Guid(8a8dd7fe5f62a4e488d6066222398e0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Google Cardboard XR Plugin for Unity using Guid(8a8dd7fe5f62a4e488d6066222398e0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a79e61880672a405d2ef24f895aab238') in 0.005716 seconds 
+  Import took 0.008308 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Samples/Google Cardboard XR Plugin for Unity
+  artifactKey: Guid(8a8dd7fe5f62a4e488d6066222398e0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Google Cardboard XR Plugin for Unity using Guid(8a8dd7fe5f62a4e488d6066222398e0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a79e61880672a405d2ef24f895aab238') in 0.001759 seconds 
+  Import took 0.003713 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.630906 seconds.
+  path: Assets/Samples/Google Cardboard XR Plugin for Unity/1.9.0
+  artifactKey: Guid(e262d708b37c9414a91f1f805c89987b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Google Cardboard XR Plugin for Unity/1.9.0 using Guid(e262d708b37c9414a91f1f805c89987b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d28e2711a631a0311c54d4c8dc75251') in 0.006239 seconds 
+  Import took 0.008458 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001271 seconds.
+  path: Assets/Samples/Google Cardboard XR Plugin for Unity/1.9.0
+  artifactKey: Guid(e262d708b37c9414a91f1f805c89987b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Google Cardboard XR Plugin for Unity/1.9.0 using Guid(e262d708b37c9414a91f1f805c89987b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d28e2711a631a0311c54d4c8dc75251') in 0.001691 seconds 
+  Import took 0.003941 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.875075 seconds.
+  path: Assets/Samples/Google Cardboard XR Plugin for Unity/1.9.0/Hello Cardboard
+  artifactKey: Guid(21dbe89953f3629428902e2ddc9022f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Google Cardboard XR Plugin for Unity/1.9.0/Hello Cardboard using Guid(21dbe89953f3629428902e2ddc9022f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1befde7402de8bd5a91a8edb7d721495') in 0.007407 seconds 
+  Import took 0.010224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000793 seconds.
+  path: Assets/Samples/Google Cardboard XR Plugin for Unity/1.9.0/Hello Cardboard
+  artifactKey: Guid(21dbe89953f3629428902e2ddc9022f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Google Cardboard XR Plugin for Unity/1.9.0/Hello Cardboard using Guid(21dbe89953f3629428902e2ddc9022f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1befde7402de8bd5a91a8edb7d721495') in 0.001636 seconds 
+  Import took 0.003628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.421348 seconds.
+  path: Assets/C#/CountdownAndDoSomething.cs
+  artifactKey: Guid(54b4bbf7458fd0a43a3d3058d7a2f2de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/C#/CountdownAndDoSomething.cs using Guid(54b4bbf7458fd0a43a3d3058d7a2f2de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c981fac8d2012ef51e4214d25b9bba0') in 0.021342 seconds 
+  Import took 0.023385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013308 seconds.
+  path: Assets/C#/CountdownAndDoSomething.cs
+  artifactKey: Guid(54b4bbf7458fd0a43a3d3058d7a2f2de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/C#/CountdownAndDoSomething.cs using Guid(54b4bbf7458fd0a43a3d3058d7a2f2de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c981fac8d2012ef51e4214d25b9bba0') in 0.002392 seconds 
+  Import took 0.004747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.358213 seconds.
+  path: Assets/素材/Lamp_02 (1).prefab
+  artifactKey: Guid(be44d320d5a463842a1d995394c9840b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/Lamp_02 (1).prefab using Guid(be44d320d5a463842a1d995394c9840b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1219397df81e24c8aac18950168a6368') in 0.372492 seconds 
+  Import took 0.374678 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/素材/天花板.mat
+  artifactKey: Guid(cdfa97ebb09a9e7469665ec5a8a268a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/天花板.mat using Guid(cdfa97ebb09a9e7469665ec5a8a268a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17eb47ba3463c7e89223581588990011') in 0.115135 seconds 
+  Import took 0.117761 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/素材/開門聲.wav
+  artifactKey: Guid(cf03cd6d827f8a04382e2e567f2046ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/開門聲.wav using Guid(cf03cd6d827f8a04382e2e567f2046ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9d87f397ca2b67db561451ceeacf475') in 0.051728 seconds 
+  Import took 0.054445 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/素材/天空.mat
+  artifactKey: Guid(f6ebe225f13a0dc47891605c76df305e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/天空.mat using Guid(f6ebe225f13a0dc47891605c76df305e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de09195eb1e97634b9b107efaa252784') in 0.146830 seconds 
+  Import took 0.148814 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/素材/Lamp_02 (1).prefab
+  artifactKey: Guid(be44d320d5a463842a1d995394c9840b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/Lamp_02 (1).prefab using Guid(be44d320d5a463842a1d995394c9840b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1219397df81e24c8aac18950168a6368') in 0.013320 seconds 
+  Import took 0.015720 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/素材/新增專案.png
+  artifactKey: Guid(7c7177a1e8d3eb24f96523194620e2df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/新增專案.png using Guid(7c7177a1e8d3eb24f96523194620e2df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '557d68bb256283ad40dfa996707953f5') in 0.043866 seconds 
+  Import took 0.046101 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.907820 seconds.
+  path: Assets/場景/VR場景.unity
+  artifactKey: Guid(e8a87c80fc0745b46bf7611b20926fc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/場景/VR場景.unity using Guid(e8a87c80fc0745b46bf7611b20926fc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66b38a5538dfcda8b5c5eed1445c8ed4') in 0.008564 seconds 
+  Import took 0.011677 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001757 seconds.
+  path: Assets/場景/VR場景.unity
+  artifactKey: Guid(e8a87c80fc0745b46bf7611b20926fc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/場景/VR場景.unity using Guid(e8a87c80fc0745b46bf7611b20926fc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66b38a5538dfcda8b5c5eed1445c8ed4') in 0.002511 seconds 
+  Import took 0.004842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 81.092955 seconds.
+  path: Assets/動畫/開門.anim
+  artifactKey: Guid(464840edd4f2b654fb62bc6ef9bcbb4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/動畫/開門.anim using Guid(464840edd4f2b654fb62bc6ef9bcbb4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '993222a73879ec0a69f73b4026519022') in 0.009771 seconds 
+  Import took 0.012644 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.082832 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.987 seconds
+Domain Reload Profiling:
+	ReloadAssembly (987ms)
+		BeginReloadAssembly (94ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (32ms)
+		EndReloadAssembly (844ms)
+			LoadAssemblies (70ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (232ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (37ms)
+			SetupLoadedEditorAssemblies (421ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (73ms)
+				ProcessInitializeOnLoadAttributes (334ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1479 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.4 MB.
+System memory in use after: 71.5 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1972.
+Total: 2.595200 ms (FindLiveObjects: 0.178000 ms CreateObjectMapping: 0.059200 ms MarkObjects: 2.328600 ms  DeleteObjects: 0.027400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 432.955793 seconds.
+  path: Assets/XR/XRGeneralSettings.asset
+  artifactKey: Guid(728e3e4709980b44fb893bd9b8e84b6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XR/XRGeneralSettings.asset using Guid(728e3e4709980b44fb893bd9b8e84b6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d11aa1669bc0d17cf92a47c2da82598') in 0.028993 seconds 
+  Import took 0.031318 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000114 seconds.
+  path: Assets/XR/Settings/XR Settings.asset
+  artifactKey: Guid(1abec13a247b08440a8010d1eb32b1c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XR/Settings/XR Settings.asset using Guid(1abec13a247b08440a8010d1eb32b1c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ddddc2be115d010d1d5c2a7c02ebb6b') in 0.007980 seconds 
+  Import took 0.010492 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/XR/Loaders/XR Loader.asset
+  artifactKey: Guid(014ce7f8aae7e1841a25dcf0ebca9cc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XR/Loaders/XR Loader.asset using Guid(014ce7f8aae7e1841a25dcf0ebca9cc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b3c91c582a88b5fa6026cfc74c6b70e') in 0.007200 seconds 
+  Import took 0.009890 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.969703 seconds.
+  path: Assets/Scenes/VR場景.unity
+  artifactKey: Guid(e8a87c80fc0745b46bf7611b20926fc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/VR場景.unity using Guid(e8a87c80fc0745b46bf7611b20926fc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fd1702968016bcce0ac50d6371b3c9c') in 0.005177 seconds 
+  Import took 0.007361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009273 seconds.
+  path: Assets/Scenes/VR場景.unity
+  artifactKey: Guid(e8a87c80fc0745b46bf7611b20926fc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/VR場景.unity using Guid(e8a87c80fc0745b46bf7611b20926fc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fd1702968016bcce0ac50d6371b3c9c') in 0.003019 seconds 
+  Import took 0.005875 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.379373 seconds.
+  path: Assets/Scenes/VR.unity
+  artifactKey: Guid(e8a87c80fc0745b46bf7611b20926fc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/VR.unity using Guid(e8a87c80fc0745b46bf7611b20926fc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ff8b165666be67420bcac59411e28e7') in 0.005664 seconds 
+  Import took 0.007965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.885629 seconds.
+  path: Assets/Animation/門中心點.controller
+  artifactKey: Guid(444ecc43a10e7da448bfa5c585062fb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/門中心點.controller using Guid(444ecc43a10e7da448bfa5c585062fb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c9bda22b7d6808d52e5a9c1d2209c9e') in 0.011048 seconds 
+  Import took 0.015034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002996 seconds.
+  path: Assets/Animation/門中心點.controller
+  artifactKey: Guid(444ecc43a10e7da448bfa5c585062fb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/門中心點.controller using Guid(444ecc43a10e7da448bfa5c585062fb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c9bda22b7d6808d52e5a9c1d2209c9e') in 0.003177 seconds 
+  Import took 0.005590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.949484 seconds.
+  path: Assets/Animation/DoorMain.controller
+  artifactKey: Guid(444ecc43a10e7da448bfa5c585062fb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/DoorMain.controller using Guid(444ecc43a10e7da448bfa5c585062fb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '917dad88d9ced752a5947ea2f297b39c') in 0.006428 seconds 
+  Import took 0.009022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.203921 seconds.
+  path: Assets/Animation/OpenDoor.anim
+  artifactKey: Guid(464840edd4f2b654fb62bc6ef9bcbb4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/OpenDoor.anim using Guid(464840edd4f2b654fb62bc6ef9bcbb4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b1b5e9da91494ff920b4797bb432ad3') in 0.005698 seconds 
+  Import took 0.008133 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
